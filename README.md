@@ -9,6 +9,8 @@ As a user, I am able to look through the different categories of photography tha
 ## Technologies Used
 
 * React
+* MongoDB
+* Node
 * JavaScript
 * CSS
 * HTML
